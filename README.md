@@ -300,3 +300,4 @@ time.sleep(step_interval)
 1. Замените виртуальное движение на GPIO управление
 2. Добавьте обработку сигналов от энкодера
 3. Реализуйте обратную связь по току/напряжению
+<img width="1001" height="723" alt="image" src="https://github.com/user-attachments/assets/a94a2bd5-022c-4fb0-9bc7-eae1e8f310bb" />
